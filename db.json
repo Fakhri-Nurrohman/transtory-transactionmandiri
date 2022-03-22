@@ -1,0 +1,223 @@
+{
+    "accounts":[
+        {
+				"accountsId": 3,
+				"accountName": "Fathonah Rahmawati",
+				"accountNum": 100010
+        },
+        {
+				"accountsId": 4,
+				"accountName": "Paulin Lestari",
+				"accountNum": 200002
+        },
+        {
+				"accountsId": 7,
+				"accountName": "Ade Fujiati S.Ked",
+				"accountNum": 300020
+        },
+        {
+				"accountsId": 8,
+				"accountName": "Umar Rama Tampubolon",
+				"accountNum": 300066
+        },
+        {
+				"accountsId": 9,
+				"accountName": "Akarsana Embuh Prasetya",
+				"accountNum": 200033
+        }
+    ],
+    "transactions":[
+        {
+            "trxId": 100001,
+            "trxAmount": 150000,
+            "trxDate": "1989-07-17T00:00:00.0Z",
+            "trxDestination": 300066,
+            "trxType": 2,
+            "Accounts": {
+                "accountsId": 3,
+                "accountName": "Fathonah Rahmawati",
+                "accountNum": 100010
+            }
+        },
+        {
+            "trxId": 100002,
+            "trxAmount": 900000,
+            "trxDate": "1974-04-04T00:00:00.0Z",
+            "trxDestination": 300020,
+            "trxType": 2,
+            "Accounts": {
+                "accountsId": 4,
+				"accountName": "Paulin Lestari",
+				"accountNum": 200002
+            }
+        },
+        {
+            "trxId": 100003,
+            "trxAmount": 1000000,
+            "trxDate": "2012-04-10T00:00:00.0Z",
+            "trxDestination": 300066,
+            "trxType": 2,
+            "Accounts": {
+                "accountsId": 7,
+				"accountName": "Ade Fujiati S.Ked",
+				"accountNum": 300020
+            }
+        },
+        {
+            "trxId": 100004,
+            "trxAmount": 6269131,
+            "trxDate": "1998-05-06T00:00:00.0Z",
+            "trxDestination": 143390,
+            "trxType": 3,
+            "Accounts": {
+                "accountsId": 8,
+				"accountName": "Umar Rama Tampubolon",
+				"accountNum": 300066
+            }
+        },
+        {
+            "trxId": 100005,
+            "trxAmount": 3319962,
+            "trxDate": "2018-01-09T00:00:00.0Z",
+            "trxDestination": 157411,
+            "trxType": 1,
+            "Accounts": {
+                "accountsId": 9,
+				"accountName": "Akarsana Embuh Prasetya",
+				"accountNum": 200033
+            }
+        },
+        {
+            "trxId": 100006,
+            "trxAmount": 5002472,
+            "trxDate": "1965-01-15T00:00:00.0Z",
+            "trxDestination": 111692,
+            "trxType": 3,
+            "Accounts": {
+                "accountsId": 9,
+				"accountName": "Akarsana Embuh Prasetya",
+				"accountNum": 200033  
+            }
+        },
+        {
+            "trxId": 100007,
+            "trxAmount": 3946467,
+            "trxDate": "1943-09-02T00:00:00.0Z",
+            "trxDestination": 146781,
+            "trxType": 2,
+            "Accounts": {
+                "accountsId": 3,
+				"accountName": "Fathonah Rahmawati",
+				"accountNum": 100010
+            }
+        },
+        {
+            "trxId": 100008,
+            "trxAmount": 3481439,
+            "trxDate": "2020-12-28T00:00:00.0Z",
+            "trxDestination": 159943,
+            "trxType": 2,
+            "Accounts": {
+                "accountsId": 3,
+				"accountName": "Fathonah Rahmawati",
+				"accountNum": 100010
+            }
+        },
+        {
+            "trxId": 100009,
+            "trxAmount": 7575863,
+            "trxDate": "2022-02-19T00:00:00.0Z",
+            "trxDestination": 114227,
+            "trxType": 1,
+            "Accounts": {
+                "accountsId": 3,
+				"accountName": "Fathonah Rahmawati",
+				"accountNum": 100010
+            }
+        },
+        {
+            "trxId": 100010,
+            "trxAmount": 9037605,
+            "trxDate": "2004-06-19T00:00:00.0Z",
+            "trxDestination": 154671,
+            "trxType": 2,
+            "Accounts": {
+                "accountsId": 3,
+				"accountName": "Fathonah Rahmawati",
+				"accountNum": 100010
+            }
+        },
+        {
+            "trxId": 100011,
+            "trxAmount": 8258906,
+            "trxDate": "1988-05-27T00:00:00.0Z",
+            "trxDestination": 148337,
+            "trxType": 1,
+            "Accounts": {
+                "accountsId": 3,
+				"accountName": "Fathonah Rahmawati",
+				"accountNum": 100010
+            }
+        },
+        {
+            "trxId": 100012,
+            "trxAmount": 5956013,
+            "trxDate": "1970-12-04T00:00:00.0Z",
+            "trxDestination": 116868,
+            "trxType": 2,
+            "Accounts": {
+                "accountsId": 3,
+				"accountName": "Fathonah Rahmawati",
+				"accountNum": 100010
+            }
+        },
+        {
+            "trxId": 100013,
+            "trxAmount": 7129632,
+            "trxDate": "1999-08-22T00:00:00.0Z",
+            "trxDestination": 152276,
+            "trxType": 1,
+            "Accounts": {
+                "accountsId": 3,
+				"accountName": "Fathonah Rahmawati",
+				"accountNum": 100010
+            }
+        },
+        {
+            "trxId": 100014,
+            "trxAmount": 2600615,
+            "trxDate": "1954-04-06T00:00:00.0Z",
+            "trxDestination": 114622,
+            "trxType": 1,
+            "Accounts": {
+                "accountsId": 7,
+				"accountName": "Ade Fujiati S.Ked",
+				"accountNum": 300020
+            }
+        },
+        {
+            "trxId": 100015,
+            "trxAmount": 9852971,
+            "trxDate": "1964-10-20T00:00:00.0Z",
+            "trxDestination": 117289,
+            "trxType": 3,
+            "Accounts": {
+                "accountsId": 8,
+				"accountName": "Umar Rama Tampubolon",
+				"accountNum": 300066
+            }
+        },
+        {
+            "trxId": 100016,
+            "trxAmount": 7032962,
+            "trxDate": "1995-11-06T00:00:00.0Z",
+            "trxDestination": 175679,
+            "trxType": 3,
+            "Accounts": {
+                "accountsId": 7,
+				"accountName": "Ade Fujiati S.Ked",
+				"accountNum": 300020
+            }
+        }
+    ]
+}
